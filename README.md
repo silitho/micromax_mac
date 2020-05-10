@@ -1,1 +1,1 @@
-# micromax
+# MicroMax for Mac
